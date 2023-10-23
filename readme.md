@@ -68,4 +68,22 @@ En este caso es así ya que está es mi ip, variaría según el equipo.
 
 http://10.0.9.21:8080
 
+Paso configurar PSPStorm
+Abre PhpStorm y asegúrate de que tu proyecto de PrestaShop esté abierto en la aplicación.
+
+En PhpStorm, ve a "View" -> "Tool Windows" -> "Database" para abrir la ventana de bases de datos.
+
+En la ventana de bases de datos, haz clic en el icono "+" o elige "Data Source" y selecciona "MySQL" como el tipo de base de datos.
+
+Completa la configuración de la fuente de datos de la base de datos:
+
+Host: Utiliza localhost o 127.0.0.1 para la dirección del servidor de la base de datos.
+Port: Utiliza 3307 para el puerto de MySQL (ajusta según tu configuración).
+User: Utiliza "root" como usuario de la base de datos.
+Password: Utiliza "admin" como contraseña de la base de datos.
+Database: Deja este campo en blanco por ahora.
+Prueba la conexión para asegurarte de que los detalles sean correctos.
+
+Después de probar la conexión con éxito, puedes acceder y administrar la base de datos directamente desde PhpStorm.
+
 # ex_sxe
