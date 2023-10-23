@@ -84,6 +84,6 @@ Password: Utiliza "admin" como contraseña de la base de datos.
 Database: Deja este campo en blanco por ahora.
 Prueba la conexión para asegurarte de que los detalles sean correctos.
 
-Después de probar la conexión con éxito, puedes acceder y administrar la base de datos directamente desde PhpStorm.
+Después de probar la conexión, pude acceder y administrar la base de datos directamente desde PhpStorm. Y subir los datos desde el navegador en Prestashop,
 
 # ex_sxe
